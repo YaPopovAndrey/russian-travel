@@ -1,0 +1,12 @@
+.places__paragraph {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.67;
+    font-style: normal;
+    font-weight: 400;
+    max-width: 484px;
+}
+
+.places__paragraph:nth-of-type(2) {
+    transform: translateY(-24px);
+}
