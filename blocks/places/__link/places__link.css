@@ -8,3 +8,7 @@
     text-decoration: underline;
     color: #ffffff;
 }
+
+.places__link:hover {
+    font-weight: 700;
+}
