@@ -10,3 +10,9 @@
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
 }
+
+@media screen and (max-width: 1024px) {
+    .root {
+        max-width: 1024px;
+    }
+}

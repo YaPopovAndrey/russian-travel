@@ -8,3 +8,9 @@
     grid-row: 1;
     grid-column: 1;
 }
+
+@media screen and (max-width: 1024px) {
+    .places__title {
+        max-width: 440px;
+    }
+}
