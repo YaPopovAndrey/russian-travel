@@ -5,8 +5,9 @@
     font-style: normal;
     font-weight: 400;
     max-width: 484px;
+    text-align: left;
 }
 
 .places__paragraph:nth-of-type(2) {
-    transform: translateY(-24px);
+    padding-top: 24px;
 }
