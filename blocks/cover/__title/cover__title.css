@@ -11,3 +11,10 @@
     left: 26.35%;
     z-index: 3;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover__title {
+        top: 31%;
+        left: 22.7%;
+    }
+}

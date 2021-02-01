@@ -11,3 +11,10 @@
     left: 34.8%;
     z-index: 3;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover__subtitle {
+        top: 58.6%;
+        left: 32.4%;
+    }
+}
