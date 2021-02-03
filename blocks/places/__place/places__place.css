@@ -28,6 +28,5 @@
         padding-top: 48px;
         grid-template-columns: minmax(min-content, max-content);
         row-gap: 32px;
-        justify-items: center;
     }
 }

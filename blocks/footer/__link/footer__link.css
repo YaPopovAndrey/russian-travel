@@ -16,7 +16,15 @@
     margin-right: 0;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 690px) {
+    .footer__link {
+        font-size: 14px;
+        line-height: 16px;
+        margin-right: 5px;
+    }
+}
+
+@media screen and (max-width: 583px) {
     .footer__link {
         margin-right: 0;
         padding-top: 32px;

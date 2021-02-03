@@ -24,13 +24,13 @@
     }
 }
 
-@media screen and (max-width: 375px) {
+/* @media screen and (max-width: 375px) {
     .places__image {
         max-width: 375px;
     }
-}
+} */
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
     .places__image {
         max-width: 320px;
     }
