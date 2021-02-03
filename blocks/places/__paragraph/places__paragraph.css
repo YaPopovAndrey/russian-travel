@@ -4,16 +4,9 @@
     line-height: 1.67;
     font-style: normal;
     font-weight: 400;
-    max-width: 484px;
     text-align: left;
 }
 
 .places__paragraph:nth-of-type(2) {
     padding-top: 24px;
-}
-
-@media screen and (max-width: 1024px) {
-    .places__paragraph {
-        max-width: 456px;
-    }
 }

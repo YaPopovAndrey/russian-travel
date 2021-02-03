@@ -3,3 +3,10 @@
     gap: 16px;
     grid-template-columns: repeat(auto-fill, 284px);
 }
+
+@media screen and (max-width: 1024px) {
+    .photo-grid__block {
+        gap: 14px;
+        grid-template-columns: repeat(auto-fill, 300px);
+    }
+}
