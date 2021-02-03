@@ -10,4 +10,4 @@
 * позиционирование объектов;
 * структура проетка по правилам Nested БЭМ.
 
-* [Ссылка на проект](https://yapopovandrey.github.io/russian-travel/)
+*** [Ссылка на проект](https://yapopovandrey.github.io/russian-travel/)**
