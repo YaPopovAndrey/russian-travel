@@ -22,3 +22,10 @@
         height: 480px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .cover__block {
+        width: 320px;
+        height: 200px;
+    }
+}

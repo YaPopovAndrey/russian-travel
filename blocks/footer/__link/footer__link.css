@@ -15,3 +15,16 @@
 .footer__link:last-of-type {
     margin-right: 0;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__link {
+        margin-right: 0;
+        padding-top: 32px;
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .footer__link:first-of-type {
+        padding-top: 0;
+    }
+}
