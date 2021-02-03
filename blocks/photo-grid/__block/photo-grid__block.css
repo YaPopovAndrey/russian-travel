@@ -18,6 +18,12 @@
     }
 }
 
+@media screen and (max-width: 375px) {
+    .photo-grid__block {
+        grid-template-columns: repeat(auto-fill, 343px);
+    }
+}
+
 @media screen and (max-width: 320px) {
     .photo-grid__block {
         gap: 12px;
