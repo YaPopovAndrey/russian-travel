@@ -4,3 +4,9 @@
     align-items: center;
     padding-top: 92px;
 }
+
+@media screen and (max-width: 768px) {
+    .intro {
+        padding-top: 88px;
+    }
+}

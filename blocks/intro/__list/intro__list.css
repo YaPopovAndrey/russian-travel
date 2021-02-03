@@ -9,3 +9,9 @@
     padding-left: 0;
     padding-top: 32px;
 }
+
+@media screen and (max-width: 768px) {
+    .intro__list {
+        max-width: 720px;
+    }
+}

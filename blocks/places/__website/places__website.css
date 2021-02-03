@@ -5,3 +5,9 @@
     grid-column: 2;
     max-width: 456px;
 }
+
+@media screen and (max-width: 768px) {
+    .places__website {
+        max-width: 352px;
+    }
+}

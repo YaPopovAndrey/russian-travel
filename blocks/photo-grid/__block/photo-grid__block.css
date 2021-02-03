@@ -10,3 +10,10 @@
         grid-template-columns: repeat(auto-fill, 300px);
     }
 }
+
+@media screen and (max-width: 768px) {
+    .photo-grid__block {
+        gap: 16px;
+        grid-template-columns: repeat(auto-fill, 352px);
+    }
+}
