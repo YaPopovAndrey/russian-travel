@@ -1,0 +1,10 @@
+.cover__block {
+    position: relative;
+    background: url(../../../images/cover-trains.jpg) center/cover no-repeat;
+    height: 740px;
+    width: 1184px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}

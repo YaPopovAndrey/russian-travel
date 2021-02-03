@@ -1,14 +1,7 @@
 .places {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding-top: 92px;
     padding-bottom: 92px;
-    max-width: 984px;
-}
-
-@media screen and (max-width: 1024px) {
-    .places {
-        max-width: 928px;
-    }
 }

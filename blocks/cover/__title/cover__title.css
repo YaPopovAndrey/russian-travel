@@ -6,15 +6,6 @@
     text-align: center;
     margin: 0;
     max-width: 560px;
-    position: absolute;
-    top: 34%;
-    left: 26.35%;
     z-index: 3;
-}
-
-@media screen and (max-width: 1024px) {
-    .cover__title {
-        top: 31%;
-        left: 22.7%;
-    }
+    padding-top: 245px;
 }
