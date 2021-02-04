@@ -2,8 +2,5 @@
     object-fit: cover;
     max-width: 100%;
     height: auto;
-}
-
-.photo-grid__item:hover {
-    transform: translate(5px, 5px);
+    display: block;
 }

@@ -1,0 +1,18 @@
+.footer__button {
+    margin-right: 18px;
+}
+
+.footer__button:last-child {
+    margin-right: 0;
+}
+
+@media screen and (max-width: 640px) {
+    .footer__button {
+        margin: 0;
+        padding-top: 32px;
+    }
+
+    .footer__button:first-child {
+        padding-top: 0;
+    }
+}

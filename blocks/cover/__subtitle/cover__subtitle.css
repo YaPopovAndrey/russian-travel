@@ -2,11 +2,10 @@
     margin: 0;
     max-width: 360px;
     font-size: 18px;
-    line-height: 1.22;
+    line-height: 22px;
     font-style: normal;
     font-weight: 400;
     text-align: center;
-    z-index: 3;
     padding-top: 32px;
 }
 

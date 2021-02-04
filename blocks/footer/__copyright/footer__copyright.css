@@ -12,9 +12,11 @@
     }
 }
 
-@media screen and (max-width: 583px) {
+@media screen and (max-width: 640px) {
     .footer__copyright {
+        font-size: 14px;
+        line-height: 14px;
+        padding-bottom: 24px;
         padding-top: 48px;
-        line-height: 1;
     }
 }

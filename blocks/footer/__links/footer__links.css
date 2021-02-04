@@ -1,7 +1,15 @@
-@media screen and (max-width: 583px) {
+.footer__links {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 640px) {
     .footer__links {
-        display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: center;
+        align-items: flex-start;
     }
 }

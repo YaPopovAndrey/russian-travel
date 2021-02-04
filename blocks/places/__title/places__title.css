@@ -42,5 +42,6 @@
 @media screen and (max-width: 320px) {
     .places__title {
         min-width: 288px;
+        margin: 0 auto;
     }
 }
