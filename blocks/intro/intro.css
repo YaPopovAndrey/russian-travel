@@ -1,18 +1,24 @@
 .intro {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding-top: 92px;
+    padding-left: 148px;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        padding-left: 48px;
+    }
 }
 
 @media screen and (max-width: 768px) {
     .intro {
+        padding-left: 24px;
         padding-top: 88px;
     }
 }
 
 @media screen and (max-width: 375px) {
     .intro {
+        padding-left: 16px;
         padding-top: 64px;
     }
 }

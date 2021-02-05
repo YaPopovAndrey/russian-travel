@@ -15,7 +15,7 @@
 }
 
 .cover__background::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 0;
     left: 0;
@@ -26,7 +26,7 @@
     z-index: -1;
 }
 
-.cover__background:hover {
+.cover__background:hover::before {
     opacity: 0.8;
 }
 
